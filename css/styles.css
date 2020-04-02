@@ -98,3 +98,7 @@ main > .tagline {
 img{
 	max-width: 100%;
 }
+
+.announce{
+	font-size: 2em;
+}
